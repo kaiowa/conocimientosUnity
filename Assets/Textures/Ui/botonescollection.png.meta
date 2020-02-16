@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: 848e06de3017aa9479333e8e383d62fd
+timeCreated: 1463227338
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: botonescollection_0
+    21300002: botonescollection_1
+    21300004: botonescollection_2
+    21300006: botonescollection_3
+    21300008: botonescollection_4
+    21300010: botonescollection_5
+    21300012: botonescollection_6
+    21300014: botonescollection_7
+    21300016: botonescollection_8
+    21300018: botonescollection_9
+    21300020: botonescollection_10
+    21300022: botonescollection_11
+    21300024: botonescollection_12
+    21300026: botonescollection_13
+    21300028: botonescollection_14
+    21300030: botonescollection_15
+    21300032: botonescollection_16
+    21300034: botonescollection_17
+    21300036: botonescollection_18
+    21300038: botonescollection_19
+    21300040: botonescollection_20
+    21300042: botonescollection_21
+    21300044: botonescollection_22
+    21300046: botonescollection_23
+    21300048: botonescollection_24
+    21300050: botonescollection_25
+    21300052: botonescollection_26
+    21300054: botonescollection_27
+    21300056: botonescollection_28
+    21300058: botonescollection_29
+    21300060: botonescollection_30
+    21300062: botonescollection_31
+    21300064: botonescollection_32
+    21300066: botonescollection_33
+    21300068: botonescollection_34
+    21300070: botonescollection_35
+    21300072: botonescollection_36
+    21300074: botonescollection_37
+    21300076: botonescollection_38
+    21300078: botonescollection_39
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: botonescollection_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 484
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 484
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 484
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_4
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 484
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_5
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 484
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_6
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 484
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_7
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 484
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 363
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_9
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 363
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 363
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_11
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 363
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_12
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 363
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_13
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 363
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_14
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 363
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_15
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 363
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_17
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 242
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_18
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 242
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_19
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 242
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_20
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 242
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_21
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 242
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_22
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 242
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_23
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 242
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_25
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 121
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_26
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 121
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_27
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 121
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_28
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 121
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_29
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 121
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_30
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 121
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_31
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 121
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_33
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_34
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_35
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_36
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 0
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_37
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 0
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_38
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 0
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonescollection_39
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 0
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
